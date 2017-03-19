@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simply Music</string>
+    <string name="radio">Radio</string>
+    <string name="nowplaying">Now Playing</string>
+    <string name="playlists">Playlists</string>
+    <string name="explore">Explore</string>
+    <string name="nowplayinginfo">This activity will have the now playing interface. It will display the current track with the usual play, pause, forward, backward, shuffle, repeat buttons. It will also have the album artwork.</string>
+    <string name="exploreinfo">This will be a tabbed activity that will display all the audio files on the device and sort them by Artist, Albums, Songs etc. It will probably implement fragments and tabs. From what I\'ve read so far, it will implement ViewPager. We could also use a Spinner to implement the choice of Songs, Artists, Albums etc. like the Apple Music app.</string>
+    <string name="radioinfo">This will stream internet radio like TuneIn does. It will have List with radio channels, upon clicking a channel, the user will be sent to the Now Playing screen.</string>
+    <string name="playlistsinfo">This activity will let the user add, browse and manage playlists created by them. Upon tapping a playlist, the Now Playing section will be launched.</string>
+</resources>
